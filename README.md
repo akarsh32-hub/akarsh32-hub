@@ -108,22 +108,7 @@ fun_fact: "I turn coffee ☕ into clean code & interactive web apps!"
 | 🎵 **Mehfil** | `HTML5`, `CSS3`, `JavaScript`, `Audio API` | Aesthetic curated music streaming web application with responsive player | [🌐 Live Demo](https://mehfildilse.netlify.app/) • [📂 Code](https://github.com/akarsh32-hub/Mahfil-song-site) |
 | 🌐 **Developer Portfolio v2** | `HTML5`, `Vanilla CSS`, `Bento UI`, `CLI Emulator` | Modern glassmorphic portfolio with interactive terminal & Command Palette | [🌐 Live Demo](https://akarsh32-hub.github.io/portfolio/) • [📂 Code](https://github.com/akarsh32-hub/portfolio) |
 
----
 
-### 📊 GitHub Activity & Insights
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=akarsh32-hub&theme=tokyonight&hide_border=true&background=070b14&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="170" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akarsh32-hub&theme=tokyonight" height="170" alt="Repos Per Language" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akarsh32-hub&theme=tokyo-night&hide_border=true&bg_color=070b14&color=38bdf8&line=38bdf8&point=2dd4bf" width="100%" alt="Activity Graph" />
-</div>
-
----
 
 ### 📬 Connect With Me
 
