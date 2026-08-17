@@ -9,7 +9,7 @@
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://akarsh32-hub.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Clean+%26+Scalable+Web+Experiences;Java+%26+Data+Structures+Enthusiast;Exploring+AI+%26+Cloud-Native+Technologies;Open+for+Internships+%26+Collaborations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Clean+%26+Scalable+Web+Experiences;Java+Full+Stack+%26+Spring+Boot+Developer;Exploring+AI+%26+Cloud-Native+Technologies;Open+for+Internships+%26+Collaborations" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -50,8 +50,8 @@ fun_fact: "I turn coffee ☕ into clean code & interactive web apps!"
 ```
 
 - 🔭 **Currently Building:** [SkyCast AI](https://akarsh32-hub.github.io/SkyCast-AI/) — District Disaster & Meteorological Intelligence Platform
-- 🎵 **Recent Live Launch:** [Mehfil](https://mehfildilse.netlify.app/) — Aesthetic music streaming web application
-- 🧠 **Daily Grind:** Practicing core Data Structures & Algorithms problem-solving in **Java**
+- 🎵 **Featured Project:** [Mehfil](https://mehfildilse.netlify.app/) — Aesthetic music streaming web application
+- 💻 **Engineering Focus:** Full-Stack Java Development (Spring Boot, Hibernate, REST APIs) & Cloud-Native Architectures
 - 📜 **Certified In:** AWS Cloud Foundations, Google AI Fundamentals, Cisco Cybersecurity, MongoDB Atlas & Java Full Stack
 
 ---
@@ -107,7 +107,6 @@ fun_fact: "I turn coffee ☕ into clean code & interactive web apps!"
 | ⚡ **SkyCast AI** | `AI Platform`, `JavaScript`, `Weather API`, `GIS` | District Disaster & Meteorological Intelligence with Kisan AI & WhatsApp Alerts | [🌐 Live Demo](https://akarsh32-hub.github.io/SkyCast-AI/) • [📂 Code](https://github.com/akarsh32-hub/SkyCast-AI) |
 | 🎵 **Mehfil** | `HTML5`, `CSS3`, `JavaScript`, `Audio API` | Aesthetic curated music streaming web application with responsive player | [🌐 Live Demo](https://mehfildilse.netlify.app/) • [📂 Code](https://github.com/akarsh32-hub/Mahfil-song-site) |
 | 🌐 **Developer Portfolio v2** | `HTML5`, `Vanilla CSS`, `Bento UI`, `CLI Emulator` | Modern glassmorphic portfolio with interactive terminal & Command Palette | [🌐 Live Demo](https://akarsh32-hub.github.io/portfolio/) • [📂 Code](https://github.com/akarsh32-hub/portfolio) |
-| 🧠 **DSA in Java** | `Java 21`, `Data Structures`, `Algorithms` | Structured problem-solving repository covering Arrays, Trees, Sorting & DP | [📂 Code](https://github.com/akarsh32-hub) |
 
 ---
 

@@ -101,14 +101,14 @@
 
   <!-- Subtitle -->
   <text x="600" y="195" text-anchor="middle" class="subtitle">
-    B.Tech CSE Student • Software Developer • Java &amp; DSA Practitioner
+    B.Tech CSE Student • Software Developer • Full-Stack &amp; Cloud Builder
   </text>
 
   <!-- Tech Focus Chips -->
   <g transform="translate(325, 230)">
-    <!-- Chip 1: Java & DSA -->
-    <rect x="0" y="0" width="125" height="32" rx="16" fill="rgba(15, 23, 42, 0.8)" stroke="rgba(56, 189, 248, 0.25)" stroke-width="1" />
-    <text x="62" y="21" text-anchor="middle" class="badge-text">☕ Java &amp; DSA</text>
+    <!-- Chip 1: Java Full Stack -->
+    <rect x="0" y="0" width="130" height="32" rx="16" fill="rgba(15, 23, 42, 0.8)" stroke="rgba(56, 189, 248, 0.25)" stroke-width="1" />
+    <text x="65" y="21" text-anchor="middle" class="badge-text">☕ Java Backend</text>
 
     <!-- Chip 2: Web Dev -->
     <rect x="140" y="0" width="135" height="32" rx="16" fill="rgba(15, 23, 42, 0.8)" stroke="rgba(56, 189, 248, 0.25)" stroke-width="1" />
