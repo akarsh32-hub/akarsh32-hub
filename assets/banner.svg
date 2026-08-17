@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="45%" stop-color="#0b1222"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#2dd4bf" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0.05"/>
+    </linearGradient>
+
+    <linearGradient id="waveGrad2" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.1"/>
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="25" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 50px;
+      font-weight: 800;
+      fill: #ffffff;
+      letter-spacing: -1px;
+    }
+    .gradient-text {
+      fill: url(#accentGrad);
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 20px;
+      font-weight: 500;
+      fill: #94a3b8;
+      letter-spacing: 0.5px;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      fill: #38bdf8;
+    }
+    .dot-glow {
+      animation: pulse 2s infinite ease-in-out;
+    }
+  </style>
+
+  <!-- Card Background with Border -->
+  <rect width="1200" height="320" rx="20" fill="url(#bgGrad)" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1.5" />
+
+  <!-- Ambient Glow Orbs -->
+  <circle cx="150" cy="80" r="140" fill="#38bdf8" opacity="0.08" filter="url(#glow)" />
+  <circle cx="1050" cy="240" r="160" fill="#6366f1" opacity="0.09" filter="url(#glow)" />
+  <circle cx="900" cy="70" r="100" fill="#2dd4bf" opacity="0.06" filter="url(#glow)" />
+
+  <!-- Decorative Wave Lines -->
+  <path d="M0,240 C300,290 600,180 1200,260 L1200,320 L0,320 Z" fill="url(#waveGrad1)" />
+  <path d="M0,270 C400,220 800,310 1200,250 L1200,320 L0,320 Z" fill="url(#waveGrad2)" />
+
+  <!-- Grid Dots pattern -->
+  <g opacity="0.12" fill="#94a3b8">
+    <circle cx="80" cy="60" r="2" />
+    <circle cx="120" cy="60" r="2" />
+    <circle cx="160" cy="60" r="2" />
+    <circle cx="80" cy="100" r="2" />
+    <circle cx="120" cy="100" r="2" />
+    <circle cx="160" cy="100" r="2" />
+    <circle cx="1040" cy="60" r="2" />
+    <circle cx="1080" cy="60" r="2" />
+    <circle cx="1120" cy="60" r="2" />
+    <circle cx="1040" cy="100" r="2" />
+    <circle cx="1080" cy="100" r="2" />
+    <circle cx="1120" cy="100" r="2" />
+  </g>
+
+  <!-- Status Pill Badge -->
+  <g transform="translate(480, 35)">
+    <rect width="240" height="34" rx="17" fill="rgba(56, 189, 248, 0.1)" stroke="rgba(56, 189, 248, 0.3)" stroke-width="1" />
+    <circle cx="20" cy="17" r="4.5" fill="#10b981" />
+    <text x="35" y="22" class="badge-text" fill="#f8fafc">Available for Opportunities</text>
+  </g>
+
+  <!-- Main Title -->
+  <text x="600" y="145" text-anchor="middle" class="title">
+    Hi, I'm <tspan class="gradient-text">Akarsh</tspan> 👋
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="195" text-anchor="middle" class="subtitle">
+    B.Tech CSE Student • Software Developer • Java &amp; DSA Practitioner
+  </text>
+
+  <!-- Tech Focus Chips -->
+  <g transform="translate(325, 230)">
+    <!-- Chip 1: Java & DSA -->
+    <rect x="0" y="0" width="125" height="32" rx="16" fill="rgba(15, 23, 42, 0.8)" stroke="rgba(56, 189, 248, 0.25)" stroke-width="1" />
+    <text x="62" y="21" text-anchor="middle" class="badge-text">☕ Java &amp; DSA</text>
+
+    <!-- Chip 2: Web Dev -->
+    <rect x="140" y="0" width="135" height="32" rx="16" fill="rgba(15, 23, 42, 0.8)" stroke="rgba(56, 189, 248, 0.25)" stroke-width="1" />
+    <text x="207" y="21" text-anchor="middle" class="badge-text">🌐 Web &amp; APIs</text>
+
+    <!-- Chip 3: Cloud -->
+    <rect x="290" y="0" width="125" height="32" rx="16" fill="rgba(15, 23, 42, 0.8)" stroke="rgba(56, 189, 248, 0.25)" stroke-width="1" />
+    <text x="352" y="21" text-anchor="middle" class="badge-text">☁️ AWS Cloud</text>
+
+    <!-- Chip 4: AI & Security -->
+    <rect x="430" y="0" width="125" height="32" rx="16" fill="rgba(15, 23, 42, 0.8)" stroke="rgba(56, 189, 248, 0.25)" stroke-width="1" />
+    <text x="492" y="21" text-anchor="middle" class="badge-text">🤖 AI &amp; Cyber</text>
+  </g>
+</svg>

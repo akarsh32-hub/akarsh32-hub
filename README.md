@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Header Banner / Typing SVG -->
+  <!-- Native SVG Header Banner -->
   <a href="https://akarsh32-hub.github.io/portfolio/">
-    <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=1,15,25&height=220&section=header&text=Hi%2C%20I'm%20Akarsh%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Software%20Developer%20%7C%20Java%20%26%20DSA%20Practitioner&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Akarsh Header Banner"/>
+    <img src="./assets/banner.svg" width="100%" alt="Akarsh Header Banner"/>
   </a>
 
-  <br/>
+  <br/><br/>
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://akarsh32-hub.github.io/portfolio/">
@@ -143,5 +143,5 @@ fun_fact: "I turn coffee ☕ into clean code & interactive web apps!"
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=1,15,25&height=100&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="./assets/footer.svg" width="100%" alt="Footer Banner"/>
 </div>
