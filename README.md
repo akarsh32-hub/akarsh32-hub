@@ -114,14 +114,14 @@ fun_fact: "I turn coffee ☕ into clean code & interactive web apps!"
 ### 📊 GitHub Activity & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akarsh32-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarsh32-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=38bdf8&text_color=94a3b8" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akarsh32-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akarsh32-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akarsh32-hub&theme=tokyonight&hide_border=true&background=070b14&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=akarsh32-hub&theme=tokyonight&hide_border=true&background=070b14&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
 </div>
 
 ---
